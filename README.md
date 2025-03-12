@@ -1,1 +1,1 @@
-# nextcloud-storage-tracker
+# Nextcloud Storage Tracker
